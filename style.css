@@ -309,7 +309,7 @@ body {
   margin-left:20px;
   margin-right:20px;
   font-size:40px;
-  margin-top:20px;
+  margin-top:60px;
   margin-bottom:20px;
 }
 .skill{
@@ -348,7 +348,7 @@ body {
 
 .services h1{
   font-size:40px;
-  margin-top:20px;
+  margin-top:60px;
 }
 .services{
   display:flex;
@@ -384,7 +384,7 @@ body {
 }
 .contact h1{
   font-size:40px;
-  margin-top:20px;
+  margin-top:60px;
   margin-bottom:20px;
 }
 .map{
