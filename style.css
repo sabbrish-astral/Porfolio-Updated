@@ -299,6 +299,65 @@ body {
   padding-left:10px;
   padding-right:10px;
 }
+.p1{
+  height:420px;
+  width:280px;
+  border:2px silver solid;
+  border-radius:1rem;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:10px;
+  margin-right:10px;
+}
+.p1 h4{
+  text-align: center;
+  padding-left:20px;
+  padding-right:20px;
+  color:black;
+}
+.p1 button{
+  background-color:#1b9bff;
+  color:white;
+  font-weight:bold;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+  margin-top:10px;
+  border-color:silver;
+  border-radius:1rem;
+  cursor: pointer;
+}
+
+.p2,.p3,.p4,.p5,.p6,.p7,.p8,.drone{
+  height:420px;
+  width:280px;
+  border:2px silver solid;
+  border-radius:1rem;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-left:10px;
+  margin-right:10px;
+}
+.p2 h4, .p3 h4, .p4 h4, .p5 h4, .p6 h4, .p7 h4, .p8 h4, .drone h4{
+  text-align: center;
+  padding-left:20px;
+  padding-right:20px;
+  color:black;
+}
+.p2 button , .p3 button, .p4 button, .p5 button, .p6 button, .p7 button, .p8 button, .drone button{
+  background-color:#1b9bff;
+  color:white;
+  font-weight:bold;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+  margin-top:10px;
+  border-color:silver;
+  border-radius:1rem;
+  cursor: pointer;
+}
 /*--------------------------------------------Skill Page-------------------------------------------------*/
 .skill h1 span{
   background:linear-gradient(to right,red 0%,#35c9fc 100%);
